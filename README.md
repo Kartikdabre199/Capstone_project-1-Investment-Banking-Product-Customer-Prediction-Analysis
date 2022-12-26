@@ -1,1 +1,1 @@
-# Investment-product-customer-prediction The objective is to predict the bank customer by targeting the ones who are likely to buy our investment product or not, i.e.    the fraction of prospects who respond to the campaign.
+
