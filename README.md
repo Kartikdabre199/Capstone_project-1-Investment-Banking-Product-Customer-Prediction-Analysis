@@ -1,4 +1,4 @@
-# CAPSTON PROJECT 2
+# CAPSTON PROJECT 1
 ## INVESTMENT PRODUCT CUSTOMER PREDICTION 
 INTRODUCTION
 A Indian bank had conducted a telemarketing campaign for a term deposit product somewhere around late 2019 . A term deposite is very similar to a fixed deposit , where you deposit money for a fixed period of time . 
